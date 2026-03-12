@@ -18,5 +18,9 @@
   {
     "package": "Rhtslib",
     "url": "https://github.com/bioc/Rhtslib"
+  },
+  {
+    "package": "LoriPkgTest2",
+    "url": "https://github.com/lshep/LoriPkgTest2"
   }
 ]
