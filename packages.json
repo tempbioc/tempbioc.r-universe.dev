@@ -22,5 +22,9 @@
   {
     "package": "LoriPkgTest2",
     "url": "https://github.com/lshep/LoriPkgTest2"
+  },
+  {
+    "package": "OHCA",
+    "url": "https://github.com/bioc/OHCA"
   }
 ]
