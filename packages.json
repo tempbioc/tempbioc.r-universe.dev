@@ -24,6 +24,34 @@
     "url": "https://github.com/lshep/LoriPkgTest2"
   },
   {
+    "package": "LoriPkgTest2",
+    "url": "https://github.com/lshep/LoriPkgTest2"
+  },
+  {
+    "package": "OSCA",
+    "url": "https://github.com/bioc/OSCA"
+  },
+  {
+    "package": "OSCA.advanced",
+    "url": "https://github.com/bioc/OSCA.advanced"
+  },
+  {
+    "package": "OSCA.basic",
+    "url": "https://github.com/bioc/OSCA.basic"
+  },
+  {
+    "package": "OSCA.intro",
+    "url": "https://github.com/bioc/OSCA.intro"
+  },
+  {
+    "package": "OSCA.multisample",
+    "url": "https://github.com/bioc/OSCA.multisample"
+  },
+  {
+    "package": "OSCA.workflows",
+    "url": "https://github.com/bioc/OSCA.workflows"
+  },
+  {
     "package": "OHCA",
     "url": "https://github.com/bioc/OHCA"
   }
