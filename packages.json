@@ -50,5 +50,9 @@
   {
     "package": "OHCA",
     "url": "https://github.com/bioc/OHCA"
+  },
+  {
+    "package": "LoriTestPkg4",
+    "url": "https://github.com/tempbioc/LoriTestPkg4"
   }
 ]
