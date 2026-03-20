@@ -52,6 +52,10 @@
     "url": "https://github.com/bioc/OHCA"
   },
   {
+    "package": "OSTA",
+    "url": "https://github.com/bioc/OSTA"
+  },
+  {
     "package": "LoriTestPkg4",
     "url": "https://github.com/tempbioc/LoriTestPkg4"
   }
