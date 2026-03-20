@@ -12,10 +12,6 @@
     "url": "https://github.com/bioc/DirichletMultinomial"
   },
   {
-    "package": "LoriTestPkg4",
-    "url": "https://github.com/tempbioc/LoriTestPkg4"
-  },
-  {
     "package": "ontoProc",
     "url": "https://github.com/bioc/ontoProc"
   },
