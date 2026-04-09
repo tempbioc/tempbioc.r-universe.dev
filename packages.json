@@ -56,10 +56,6 @@
     "url": "https://github.com/bioc/OSTA"
   },
   {
-    "package": "LoriTestPkg4",
-    "url": "https://github.com/tempbioc/LoriTestPkg4"
-  },
-  {
     "package": "LoriTestPkg5",
     "url": "https://github.com/tempbioc/LoriTestPkg5"
   }
