@@ -50,9 +50,5 @@
   {
     "package": "OSTA",
     "url": "https://github.com/bioc/OSTA"
-  },
-  {
-    "package": "LoriTestPkg5",
-    "url": "https://github.com/tempbioc/LoriTestPkg5"
   }
 ]
