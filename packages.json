@@ -50,5 +50,17 @@
   {
     "package": "OSTA",
     "url": "https://github.com/bioc/OSTA"
+  },
+  {
+    "package": "RNAseq123",
+    "url": "https://github.com/bioc/RNAseq123"
+  },
+  {
+    "package": "yeastNagalakshmi",
+    "url": "https://github.com/bioc/yeastNagalakshmi"
+  },
+  {
+    "package": "AHEnsDbs",
+    "url": "https://github.com/bioc/AHEnsDbs"
   }
 ]
